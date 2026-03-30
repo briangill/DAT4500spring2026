@@ -2,4 +2,6 @@
 
 Sample repository for DAT 4500 spring 2026
 
-Test added in RStudio
+Text added in RStudio
+
+More text from GitHub
